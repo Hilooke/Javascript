@@ -118,40 +118,40 @@
 
 
 // Symbol
-const mySymbol = Symbol()
-console.log(mySymbol)
-const newSymbol = Symbol("lot")
-console.log(newSymbol)
+// const mySymbol = Symbol()
+// console.log(mySymbol)
+// const newSymbol = Symbol("lot")
+// console.log(newSymbol)
 
 
-// concatenation
-const day = "30days of Javascript";
-const love ="I love";
-const sentence = love + " " + "studying " + day;
-console.log(sentence);
+// // concatenation
+// const day = "30days of Javascript";
+// const love ="I love";
+// const sentence = love + " " + "studying " + day;
+// console.log(sentence);
 
-const backtickSentence=  `${love} studying  ${day}`
-console.log(backtickSentence);
+// const backtickSentence=  `${love} studying  ${day}`
+// console.log(backtickSentence);
 
-const myArray = ["Rukaya" , "Marvellous" , "Grace" , "Munirah"];
-console.log(myArray);
-myArray[0] = "Salamat";
-console.log(myArray);
+// const myArray = ["Rukaya" , "Marvellous" , "Grace" , "Munirah"];
+// console.log(myArray);
+// myArray[0] = "Salamat";
+// console.log(myArray);
 
-const four=4
-console.log(Math.sqrt(four));
-console.log(Math.pow(4, 2));
-console.log(Math.PI);
-console.log(Math.random());
-console.log(Math.random());
-console.log(Math.random());
-console.log(Math.random());
-console.log(Math.random() * 1);
-console.log(Math.max(3, 4, 9, 0));
+// const four=4
+// console.log(Math.sqrt(four));
+// console.log(Math.pow(4, 2));
+// console.log(Math.PI);
+// console.log(Math.random());
+// console.log(Math.random());
+// console.log(Math.random());
+// console.log(Math.random());
+// console.log(Math.random() * 1);
+// console.log(Math.max(3, 4, 9, 0));
 
-let random = Math.random() *10 + 1;
-const Pi = Math.Pi;
-console.log(Math.floor(Pi));
-console.log(Math.abs(Pi));
-console.log(Math.ceil(Pi));
+// let random = Math.random() *10 + 1;
+// const Pi = Math.Pi;
+// console.log(Math.floor(Pi));
+// console.log(Math.abs(Pi));
+// console.log(Math.ceil(Pi));
 
